@@ -8,6 +8,7 @@
 ****
 
 - Para navegar el escenario las teclas son:
+      
       ** W para avanzar
       ** S para retroceder
       ** A para ir a la izquierda
@@ -25,7 +26,8 @@
  ****
  
  - Las animaciones consisten en:
-    ** Puerta que abre al iniciar
-    ** Rueda de tortura que gira
-    ** Cuerpos colgando que giran
+    
+          ** Puerta que abre al iniciar
+          ** Rueda de tortura que gira
+          ** Cuerpos colgando que giran
     
